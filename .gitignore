@@ -1,0 +1,7 @@
+
+*.cache
+*.xml
+*.json
+*.props
+*.targets
+*.info
